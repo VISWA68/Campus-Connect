@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jodelsonify
 from flask_cors import CORS
 import faiss
 import numpy as np
